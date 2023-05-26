@@ -59,7 +59,7 @@ Over the years, weather pattern trends in Singapore seem to follow the global av
 One such application is workplace safety which is shown in this project to be closely linked to weather patterns and as such, we should proactively seek out implications of climate trends to the insurance industry to prevent adverse selection, improve pricing models and gather marketing insights.
 
 #### Correlation between Mean Temperature and Light Injuries (Construction)
-1. With the trend of increasing temperatures across the years, the actuarial team should look into adequately accounting for the increase in temperature to their long-term workplace safety pricing models so that the insurance company does not become susceptible to adverse selection by policyholders, where they unwittingly offer cheaper premiums than competitors who have adequately accounted for the impact brought forth by rising temperatures (Storey et al., 2019).
+1. With the trend of increasing temperatures across the years, the actuarial team should look into adequately accounting for the increase in temperature to their long-term workplace safety pricing models so that the insurance company does not become susceptible to adverse selection (adverse selection refers to a scenario where either the buyer or the seller has information about an aspect of product quality that the other party does not have. Adverse selection is a common scenario in the insurance sector, where those who are  high-risk are more likely to sign up for insurance. (CFI, 2022)) by policyholders, where they unwittingly offer cheaper premiums than competitors who have adequately accounted for the impact brought forth by rising temperatures (Storey et al., 2019).
 2. Develop an Actuaries Climate Index (ACI), which  seeks to quantify changes in the climate and is used to make  informed decisions.
 
 #### Correlation between Wet Bulb Temperature and Major Injuries (Transportation & Storage)
@@ -70,6 +70,8 @@ One such application is workplace safety which is shown in this project to be cl
 ---
 
 ### Citations
+CFI Team, C. (2022, December 27). Adverse Selection. Corporate Finance Institute. Retrieved May 26, 2023, from https://corporatefinanceinstitute.com/resources/wealth-management/adverse-selection/
+
 McQuillan, L. (2022, July 20). Too hot to handle: How to survive amid extreme heat and humidity. CBC. Retrieved May 25, 2023, from https://www.cbc.ca/news/health/heat-humidity-bodies-wet-bulb-1.6525711#:~:text=The%20hotter%20and%20more%20humid,others%2C%20according%20to%20Health%20Canada.
 
 Medvigy, D., & Beaulieu, C. (2012). Trends in Daily Solar Radiation and Precipitation Coefficients of Variation since 1984. Journal of Climate, Volume 25(Issue 4), 1330–1339. https://doi.org/10.1175/2011JCLI4115.1
