@@ -3,7 +3,7 @@
 
 ### Problem Statement
 
-You are a data analyst at an insurance company that attended a forum held by the Singapore Actuarial Society on how the insurance industry may be impacted by climate across the world. You are concerned and wish to understand if the same trends apply to Singapore and have identified workplace safety to be a key area of interest. This analysis will identify weather patterns in Singapore and its implication on workplace related insurance.
+You are a data analyst at an insurance company that attended a forum held by the Singapore Actuarial Society on how the insurance industry may be impacted by climate trends across the world. You are concerned and wish to understand if the same trends apply to Singapore and have identified workplace safety to be a key area of interest. This analysis will identify weather patterns in Singapore and its implication on workplace related insurance.
 
 
 ---
